@@ -25,6 +25,6 @@ If you do not want to invent the wheel on your own, you can pick one of schemes 
 ### Pedals mechanics (coming soon)
 
 ### Wiring diagrams
-<img src="docs/images/connection/scheme_joystick.jpg" height="500">
-<img src="docs/images/connection/scheme_pedals.jpg" height="500">
+<img src="docs/images/connection/scheme_joystick.jpg" height="400">
+<img src="docs/images/connection/scheme_pedals.jpg" height="400">
 
