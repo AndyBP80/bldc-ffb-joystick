@@ -19,7 +19,7 @@ Forum links:
 
 There is no restriction for gimbal design and materials, so you can choose any scheme you think suits your needs. 
 If you do not want to invent the wheel on your own, you can pick one of schemes that are already tested:
-* [High force base with howerboard motors and metal gimbal](https://cults3d.com/en/3d-model/game/encode)
+* [High force base with howerboard motors and metal gimbal](https://github.com/o-devices/ffb-joystick-howerboard-motor-base)
 * Medium force base with 63xx motors and metal gimbal(coming soon)
 
 ### Pedals mechanics (coming soon)
